@@ -1,0 +1,5 @@
+[hmc]
+url=hmc
+user=hscroot
+password=abc123
+ssl_verify=false
