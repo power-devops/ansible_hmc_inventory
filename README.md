@@ -19,3 +19,7 @@ Create hmcinv.ini file in the current directory or in /etc/ansible. A self-expla
 ```
 # ansible all -i hmc_inventory.py -m ping
 ```
+
+## See also
+
+https://ibm.github.io/ansible-power-hmc/plugins/powervm_inventory.html
